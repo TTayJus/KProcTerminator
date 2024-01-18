@@ -4,6 +4,10 @@
 
 This repository, 'KProcTerminator', contains a Windows kernel driver designed for terminating specific processes on a system. It is meant to be loaded using `kdmapper`, a known method for loading unsigned drivers into the Windows kernel space without a signed driver.
 
+
+![KProcTerminator Diagram](https://raw.githubusercontent.com/TTayJus/KProcTerminator/main/src/DriverD.png)
+
+
 ## Warning
 
 ⚠️ **This driver can terminate system processes, potentially leading to system instability or crashes.**

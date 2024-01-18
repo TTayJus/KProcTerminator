@@ -27,7 +27,7 @@ This repository, 'KProcTerminator', contains a Windows kernel driver designed fo
 
 ## Compilation
 
-Compile the driver using Microsoft Visual Studio with Windows Driver Kit (WDK). Open the solution file and build the project in x64 Release mode.
+Compile the driver using Microsoft Visual Studio with Windows Driver Kit (WDK). Create a MVS project (WMDK) and paste the code in.
 
 ## Usage
 

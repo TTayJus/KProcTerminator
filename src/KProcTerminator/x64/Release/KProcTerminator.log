@@ -1,0 +1,9 @@
+﻿  Building 'KProcTerminator' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  DriverUtilities.cpp
+C:\Users\pc\source\repos\KProcTerminator\KProcTerminator\DriverUtilities.cpp(3,42): warning C4100: 'DriverObject': unreferenced formal parameter
+  ProcessUtilities.cpp
+  KProcTerminator.vcxproj -> C:\Users\pc\source\repos\KProcTerminator\x64\Release\KProcTerminator.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\pc\source\repos\KProcTerminator\x64\Release\KProcTerminator.sys
+  
+  Driver is 'Universal'.

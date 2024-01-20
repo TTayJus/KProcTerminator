@@ -1,3 +1,7 @@
+[![Twitter](https://img.shields.io/badge/Twitter-TTayJus-blue?style=flat&logo=twitter)](https://twitter.com/TTayJus)
+
+
+
 # KProcTerminator
 
 ## Overview
